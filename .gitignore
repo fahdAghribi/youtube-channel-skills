@@ -22,3 +22,6 @@ promo-video/renders/
 .DS_Store
 .vscode/
 .idea/
+
+# Promo video project (kept local, not published)
+promo-video/

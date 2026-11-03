@@ -33,6 +33,6 @@
     <text x="16" y="380" fill="#a8e6b8" font-weight="700">Fingerprint: <tspan fill="#ffffff">7a1627fde3a3</tspan></text>
 
     <text y="430" fill="#c9c9d1">Reply <tspan fill="#ffffff" font-weight="700">yes</tspan> / <tspan fill="#ffffff" font-weight="700">publica</tspan> to run it, or suggest edits.</text>
-    <text y="462" fill="#8a8a96">→ se vuelve a ejecutar con --confirm 7a1627fde3a3</text>
+    <text y="462" fill="#8a8a96">$ python3 scripts/publish_video.py video.json --confirm 7a1627fde3a3</text>
   </g>
 </svg>
