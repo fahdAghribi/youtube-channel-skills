@@ -1,0 +1,20 @@
+{
+  "name": "youtube-channel-skills",
+  "description": "10 Claude Code skills to run a YouTube channel: channel audit, outlier idea research, content planner, retention script writer, title and thumbnail packaging, metadata optimizer with offline validator, publisher (upload/schedule/update via the official API with a fingerprinted approval gate), Shorts repurposer, comment manager and analytics reviewer.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Fahd Aghribi",
+    "url": "https://github.com/fahdAghribi"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/fahdAghribi/youtube-channel-skills",
+  "keywords": [
+    "youtube",
+    "youtube-shorts",
+    "content-creation",
+    "video-marketing",
+    "claude-skills",
+    "claude-code",
+    "creator-tools"
+  ]
+}

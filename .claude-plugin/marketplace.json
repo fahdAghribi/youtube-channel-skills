@@ -1,0 +1,26 @@
+{
+  "name": "youtube-channel-skills",
+  "owner": {
+    "name": "Fahd Aghribi",
+    "url": "https://github.com/fahdAghribi"
+  },
+  "metadata": {
+    "description": "Claude Code skills to plan, script, package, publish and analyse a YouTube channel."
+  },
+  "plugins": [
+    {
+      "name": "youtube-channel-skills",
+      "source": "./",
+      "description": "10 YouTube channel skills: audit, idea research, planner, script writer, title and thumbnail, metadata optimizer, publisher, Shorts repurposer, comment manager, analytics reviewer.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Fahd Aghribi",
+        "url": "https://github.com/fahdAghribi"
+      },
+      "homepage": "https://github.com/fahdAghribi/youtube-channel-skills",
+      "license": "MIT",
+      "keywords": ["youtube", "content-creation", "claude-skills", "video-marketing"],
+      "category": "productivity"
+    }
+  ]
+}
